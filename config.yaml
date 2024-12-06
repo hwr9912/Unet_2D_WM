@@ -1,0 +1,7 @@
+original_video_path: data/CropVideoByMask
+mask_video_path: data/mask
+location_table_path: data/loc
+model_params_file: weights/unet_dataset_0/unet_200.pth
+maze_dir: data/maze.npy
+platform_dir: data/platform.npy
+fig_save_path: data/roadmap
